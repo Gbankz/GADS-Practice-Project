@@ -1,9 +1,8 @@
 # GADS-Practice-Project
   This repository shows all the labs and lab translations i did in fulfillment of the requirements for GADS practice project for the cloud track
 
-  >(https://raw.github.com/Gbankz/GADS-Practice-Project/LabScreenshots/ConsoleandCloudShell.PNG)
-  >Lab Screenshots/Console and Cloud Shell.PNG
-
+  >LabScreenshots/Console and CloudShell.PNG
+  
   >Lab Screenshots/Create a Streaming Data Pipeline for a Real-Time Dashboard with Cloud Dataflow.PNG
 
   >Lab Screenshots/Creating Virtual Machines.PNG
